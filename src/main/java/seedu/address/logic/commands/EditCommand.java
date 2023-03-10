@@ -190,8 +190,13 @@ public class EditCommand extends Command {
             return Optional.ofNullable(address);
         }
 
-        public void setBusinessSize(BusinessSize businessSize) { this.businessSize = businessSize; }
-        public Optional<BusinessSize> getBusinessSize() { return Optional.ofNullable(businessSize); }
+        public void setBusinessSize(BusinessSize businessSize) { 
+            this.businessSize = businessSize; 
+        }
+
+        public Optional<BusinessSize> getBusinessSize() { 
+            return Optional.ofNullable(businessSize); 
+        }
 
         /**
          * Sets {@code tags} to this object's {@code tags}.
