@@ -26,7 +26,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](http://github.com/seriouslia0)]
 [[portfolio](team/seriouslia0.md)]
 
-* Role: Chief Expresso Officer
+* Role: Chief Espresso Officer
 * Responsibilities: UI
 
 ### Ezekiel Ang Jing Hung
